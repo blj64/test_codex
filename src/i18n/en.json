@@ -1,0 +1,27 @@
+{
+  "nav": { "home": "Home", "products": "Products", "blog": "Blog", "contact": "Contact" },
+  "cta": "Buy now",
+  "hero": { "title": "Dry better, live better", "subtitle": "Secaluxe durable clotheslines" },
+  "features": {
+    "durable": "Durable materials",
+    "space": "Space saving",
+    "indoor": "Indoor use",
+    "outdoor": "Outdoor use",
+    "rust": "Rust resistant",
+    "eco": "Eco design"
+  },
+  "contact": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send",
+    "success": "Message sent!"
+  },
+  "faq": {
+    "title": "FAQ",
+    "q1": "How to maintain my rack?",
+    "a1": "Wipe with a damp cloth.",
+    "q2": "Can it be used outdoors?",
+    "a2": "Yes, it resists weather."
+  }
+}

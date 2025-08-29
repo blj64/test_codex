@@ -1,0 +1,27 @@
+{
+  "nav": { "home": "Accueil", "products": "Produits", "blog": "Blog", "contact": "Contact" },
+  "cta": "Acheter maintenant",
+  "hero": { "title": "Séchez mieux, vivez mieux", "subtitle": "Les étendoirs durables de Secaluxe" },
+  "features": {
+    "durable": "Matériaux durables",
+    "space": "Gain de place",
+    "indoor": "Utilisation intérieure",
+    "outdoor": "Utilisation extérieure",
+    "rust": "Anti-rouille",
+    "eco": "Éco-conception"
+  },
+  "contact": {
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Envoyer",
+    "success": "Message envoyé !"
+  },
+  "faq": {
+    "title": "FAQ",
+    "q1": "Comment entretenir mon étendoir ?",
+    "a1": "Essuyez avec un chiffon humide.",
+    "q2": "Peut-on l'utiliser en extérieur ?",
+    "a2": "Oui, il résiste aux intempéries."
+  }
+}
