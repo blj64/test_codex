@@ -1,0 +1,15 @@
+version: '3'
+services:
+  dev:
+    image: node:18
+    working_dir: /app
+    volumes:
+      - .:/app
+      - /app/node_modules
+    ports:
+      - '5173:5173'
+    command: npm run dev
+  preview:
+    build: .
+    ports:
+      - '8080:80'
